@@ -1,0 +1,5 @@
+h1{
+  border: 10px solid darckblue; background-color: darkblue; color: white;
+}
+button{border:1px solid black;font-style: italic; color:black}
+button:hover{border:1px solid purple;font-style: italic;color:purple}
