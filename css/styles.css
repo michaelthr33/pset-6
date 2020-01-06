@@ -1,5 +1,7 @@
 h1{
-  border: 10px solid darckblue; background-color: darkblue; color: white;
+  border: 10px solid black; background-color: black; color: whitesmoke;
 }
-button{border:1px solid black;font-style: italic; color:black}
-button:hover{border:1px solid purple;font-style: italic;color:purple}
+button{border:1px solid steelblue;font-style: italic; color:steelblue}
+button:hover{border:1px solid lightslategrey;font-style: italic;color:lightslategrey}
+body{background-color: whitesmoke}
+head{background-color: black; border:10px solid black}
