@@ -1,7 +1,7 @@
 window.onload=function(){
   document.getElementById("button").onclick=runButton;
   list = document.getElementById("text")
-
+const paragraph=dogument.createElement("p");
 let a="";
 let b="";
 let c="";
@@ -22,7 +22,8 @@ const runButton= function(){
       else if (d="") {d="!"+todo+"X  ✓",todolist.push(d)}
       else if (e="") {e="!"+todo+"X  ✓",todolist.push(e)}
       else if (f="") {f="!"+todo+"X  ✓",todolist.push(f)}
-list.innerHTML= printtodolist
+p.innerHTML= printtodolist
+
 };
 //https://memorynotfound.com/dynamically-addremove-items-list-javascript/
 //✓
