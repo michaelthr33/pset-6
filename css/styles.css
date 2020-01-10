@@ -1,7 +1,10 @@
 h1{
-  border: 10px solid black; background-color: black; color: whitesmoke;
+  border: 10px solid black; background-color: black; color: whitesmoke;text-align: center;
 }
 button{border:1px solid steelblue;font-style: italic; color:steelblue}
 button:hover{border:1px solid lightslategrey;font-style: italic;color:lightslategrey}
 body{background-color: whitesmoke}
 head{background-color: black; border:10px solid black}
+h2{text-align: center;background-color: solid black}
+.user_input{text-align: center;}
+*{text-align: center;font-size: 5}
